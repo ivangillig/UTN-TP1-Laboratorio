@@ -22,7 +22,7 @@ Los requisitos del trabajo son:
 
 - Ubicacion geografica (iframe con google maps)
 
-- descarga de archivos (con etiqueta <a>) puede ser pdf/jpg etc
+- descarga de archivos (con etiqueta \<a>) puede ser pdf/jpg etc
   
 
 - 8 secciones (use las listadas abajo)
@@ -44,4 +44,4 @@ Los requisitos del trabajo son:
     section sidebar (publicidad)
   
 
-- menú (para hacer el menú utilice etiquetas <a> en el nav)
+- menú (para hacer el menú utilice etiquetas \<a> en el nav)
