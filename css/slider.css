@@ -1,0 +1,91 @@
+.carousel-wrapper {
+    position: relative;
+    height: 60rem;
+    width: 120rem;
+  }
+  .carousel-wrapper .carousel-item {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 25px 50px;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+    border-radius: 10px;
+    
+  }
+  .carousel-wrapper [id^="target-item"] {
+    display: none;
+    
+  }
+  .carousel-wrapper *:target ~ .item-1 {
+    opacity: 0;
+  }
+  .carousel-wrapper #target-item-1:target ~ .item-1 {
+    opacity: 1;
+  }
+  .carousel-wrapper #target-item-2:target ~ .item-2, .carousel-wrapper #target-item-3:target ~ .item-3, .carousel-wrapper #target-item-4:target ~ .item-4, .carousel-wrapper #target-item-5:target ~ .item-5 {
+    z-index: 3;
+    opacity: 1;
+  }
+  .carousel-wrapper img {
+    max-width: 100%;
+  }
+
+ .contenido_slider, .titulo_slider{
+          color: rgba(255, 255, 255, 0.985);
+        }
+
+.contenido_slider{
+    margin-bottom: 0;
+}
+
+  .carousel-wrapper .carousel-item .arrow {
+    position: absolute;
+    top: 0;
+    display: block;
+    width: 50px;
+    height: 100%;
+    -webkit-tap-highlight-color: transparent;
+    background: url("../img/left-arrow.png") 50% 50%/50px no-repeat;
+  }
+  .carousel-wrapper .carousel-item .arrow.arrow-prev {
+    left: 10px;
+  }
+  .carousel-wrapper .carousel-item .arrow.arrow-next {
+    right: 10px;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+
+  @media (max-width: 480px) {
+    .carousel-wrapper .carousel-item .arrow, .carousel-wrapper .carousel-item.light .arrow {
+      background-size: 75%;
+      background-position: 10px 50%;
+      background-size: cover;
+    }
+  }
+  @media only screen and (max-width: 760px) {
+    .carousel-wrapper {
+      width: 100%;
+      background-size: cover;
+    }
+  }
+
+  .carousel-wrapper .item-1 {
+    z-index: 2;
+    opacity: 1;
+    background: url("../img/slider_1.jpg") no-repeat scroll 100%;
+    
+    background-size: cover;
+  }
+  .carousel-wrapper .item-2 {
+    background: url("../img/slider_2.jpg") no-repeat scroll 100%;
+  }
+  .carousel-wrapper .item-3 {
+    background: url("../img/slider_3.jpg") no-repeat scroll 100%;
+  }
+  .carousel-wrapper .item-4 {
+    background: url("../img/slider_4.jpg") no-repeat scroll 100%;
+  }
