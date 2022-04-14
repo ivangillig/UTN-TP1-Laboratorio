@@ -1,6 +1,8 @@
 # UTN - TP1 - Laboratorio III
 
-## Etiquetas HTML - Blog de desarrollo
+## TEMA: Etiquetas HTML - Blog de desarrollo
+
+## https://blogdesarrollo.herokuapp.com/
 
 Proyecto de página estática para laboratorio III de la UTN (Técnicatura Universitaria en Programación)
 
@@ -20,12 +22,12 @@ Los requisitos del trabajo son:
 
 - Ubicacion geografica (iframe con google maps)
 
-- descarga de archivos (con etiqueta <a>) puede ser pdf/jpg etc
+- descarga de archivos (con etiqueta \<a>) puede ser pdf/jpg etc
   
 
 - 8 secciones (use las listadas abajo)
   
-    section entrada
+    section entradas (los tres links redireccionan a la misma entrada por ahora)
   
     section contacto
   
@@ -42,4 +44,4 @@ Los requisitos del trabajo son:
     section sidebar (publicidad)
   
 
-- menú (para hacer el menú utilice etiquetas <a> en el nav)
+- menú (para hacer el menú utilice etiquetas \<a> en el nav)
