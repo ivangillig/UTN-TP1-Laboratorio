@@ -27,7 +27,7 @@ Los requisitos del trabajo son:
 
 - 8 secciones (use las listadas abajo)
   
-    section entrada
+    section entradas (los tres links redireccionan a la misma entrada por ahora)
   
     section contacto
   
