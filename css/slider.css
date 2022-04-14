@@ -61,7 +61,7 @@
 
   @media (max-width: 480px) {
     .carousel-wrapper .carousel-item .arrow, .carousel-wrapper .carousel-item.light .arrow {
-      background-size: 75%;
+      background-size: auto;
       background-position: 10px 50%;
       background-size: cover;
     }

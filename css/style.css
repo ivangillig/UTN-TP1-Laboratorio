@@ -98,6 +98,11 @@ img {
 .logo__bold {
     font-weight: 700;
 }
+@media (max-width: 480px) {
+    .logo__bold {
+        display: block;
+    }
+}
 @media (min-width: 768px) {
     .navegacion {
         display: flex;
