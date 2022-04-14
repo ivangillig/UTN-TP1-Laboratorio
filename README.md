@@ -42,4 +42,4 @@ Los requisitos del trabajo son:
     section sidebar (publicidad)
   
 
-- menu (para hacer el menú utilice etiquetas <a> en el nav)
+- menú (para hacer el menú utilice etiquetas <a> en el nav)
