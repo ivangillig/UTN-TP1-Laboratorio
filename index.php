@@ -13,7 +13,7 @@
 
                 <div class="entrada__contenido">
                     <h4 class="no-margin">Tipos de etiquetas en HTML</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, rerum, reprehenderit consequatur perferendis officia, vitae fuga animi temporibus itaque atque reiciendis ea excepturi! Molestias aperiam fugiat deleniti laudantium atque numquam?</p>
+                    <p>Si te interesa la creación de páginas web o meramente el ámbito de la informática, seguro que has escuchado hablar sobre el código y las etiquetas html. Como ya sabrás, se trata del lenguaje más importante para elaborar sitios web. ¿Quieres saber más? Continúa leyendo y recuerda que puedes especializarte en el sector con nuestro curso de modelado <a href="cursos.php"> Estilos con CSS / SASS.</a></p>
                     <a href="entrada.php#entrada" class="boton boton--primario">Leer Entrada</a>
                     <a href="#header" class="boton boton--primario">Volver al inicio</a>
                 </div>
@@ -26,7 +26,7 @@
                 
                 <div class="entrada__contenido">
                     <h4 class="no-margin">Python como herramienta para Data Science</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, rerum, reprehenderit consequatur perferendis officia, vitae fuga animi temporibus itaque atque reiciendis ea excepturi! Molestias aperiam fugiat deleniti laudantium atque numquam?</p>
+                    <p>La ciencia de datos o Data Science es un campo científico que se sirve de múltiples métodos para extraer conocimiento de los datos. Para conseguirlo existen herramientas concretas. Te comentamos cuáles son las más comunes...</p>
                     <a href="entrada.php#entrada" class="boton boton--primario">Leer Entrada</a>
                     <a href="#header" class="boton boton--primario">Volver al inicio</a>
                 </div>
@@ -39,7 +39,7 @@
                 
                 <div class="entrada__contenido">
                     <h4 class="no-margin">Como evitar el Burnout estudiando Programación</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, rerum, reprehenderit consequatur perferendis officia, vitae fuga animi temporibus itaque atque reiciendis ea excepturi! Molestias aperiam fugiat deleniti laudantium atque numquam?</p>
+                    <p>Dicen que el de programador es uno de los trabajos más demandados y con un sueldo medio más digno (no diremos alto), pero a cambio, es probablemente uno de los empleos no solo que más formación y concentración requiere, sino que más reciclaje y aprendizaje continuo necesita cuando ya se es un profesional en activo...</p>
                     <a href="entrada.php#entrada" class="boton boton--primario">Leer Entrada</a>
                     <a href="#header" class="boton boton--primario">Volver al inicio</a>
                 </div>
